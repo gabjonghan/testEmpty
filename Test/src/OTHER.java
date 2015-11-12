@@ -7,8 +7,10 @@
 
 
 /**
- * @author Han, Gabjong (KR16278) - 2015. 11. 12. 오후 6:07:07
+ * @author Han, Ga123bjong (KR16278) - 2015. 11. 12. 오후 6:07:07
  */
 public class OTHER {
-
+  public void doSomething() {
+    
+  }
 }
